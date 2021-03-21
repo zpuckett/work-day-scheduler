@@ -30,8 +30,17 @@ textarea{
   border-radius: 15px;
 }
 
+.input-group-text {
+  border: none;
+}
+
+.form-control {
+  border: none;
+  background-color: lightgray;
+}
+
 .row {
-  white-space: pre-wrap;
+  
   height: 80px;
   border-top: 1px solid white;;
 }
@@ -39,7 +48,11 @@ textarea{
 .hour {
   background-color: #ffffff;
   color: #000000;
-  border-top: 1px dashed #000000;
+  border-left: 1px dashed black;
+  width: 100px;
+  text-align: center;
+  padding: 20px;
+  line-height: 20px;
 }
 
 .past {
@@ -63,6 +76,8 @@ textarea{
   border-bottom-right-radius: 15px;
   background-color: #06AED5;
   color: white;
+  width: 120px;
+  font-size: 20px;
 }
 
 .saveBtn i:hover {
