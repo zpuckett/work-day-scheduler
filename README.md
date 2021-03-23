@@ -6,11 +6,11 @@ Allow users to schedule out workday on a timeline.
 ## Website
 https://zpuckett.github.io/work-day-scheduler/
 
-## Screenshot
+## WebPage Image
 
-![Screenshot](assets/Screen Shot 2021-03-22 at 8.31.08 PM.png)
+![Screenshot](./assets/workdayscreenshot.png)
 
-## Made with
+### Built with
 * CSS
 * HTML
 * JavaScript
