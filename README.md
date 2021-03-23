@@ -8,7 +8,7 @@ https://zpuckett.github.io/work-day-scheduler/
 
 ## Screenshot
 
-![Screenshot](assets/Screen Shot 2021-03-22 at 8.31.08 PM.png)
+[!Screenshot](assets/Screen Shot 2021-03-22 at 8.31.08 PM.png)
 
 ## Made with
 * CSS
