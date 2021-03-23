@@ -8,7 +8,9 @@ https://zpuckett.github.io/work-day-scheduler/
 
 ## WebPage Image
 
+<<<<<<< HEAD
 ![Screenshot](./assets/workdayscreenshot.png)
+
 
 ### Built with
 * CSS
